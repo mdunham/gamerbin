@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/mdunham/gamerbin.png?label=ready&title=Ready)](https://waffle.io/mdunham/gamerbin?utm_source=badge)
 # CakePHP Application Skeleton
 
 [![Build Status](https://img.shields.io/travis/cakephp/app/master.svg?style=flat-square)](https://travis-ci.org/cakephp/app)
